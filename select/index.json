@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "TOXY!",
+  "base_artist": "鯨木",
+  "createdAt": "2025-12-11T15:48:05.094036Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Toxy!",
+      "artist": "KUJIRAGI",
+      "has_synced": true,
+      "path": "select/01_Toxy!_KUJIRAGI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Toxy",
+      "artist": "icy genesis",
+      "has_synced": true,
+      "path": "select/02_Toxy_icy_genesis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Toxy",
+      "artist": "Supafly",
+      "has_synced": false,
+      "path": "select/03_Toxy_Supafly.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOXY!",
+      "artist": "鯨木",
+      "has_synced": false,
+      "path": "select/pl_01_TOXY!_鯨木.txt"
+    }
+  ]
+}
